@@ -11,31 +11,33 @@
 
 ### DS
 
-* 中序线索，前序、后序遍历
-* 邻接矩阵存储图
-* 邻接表存图
-* Kruskal最小生成树
-* Prim最小生成树
+- [x] 中序线索，前序、后序遍历
+- [ ] 邻接矩阵存储图
+- [ ] 邻接表存图
+- [ ] Kruskal最小生成树
+- [ ] Prim最小生成树
 
 ### Algorithm
 
-* 动态规划-最长子序列+二分查找
-* 0/1背包问题
-* 区间dp
-* 贪心算法
-* 哈希表
-* UTHash
+- [ ] 动态规划-最长子序列+二分查找
+- [ ] 0/1背包问题
+- [ ] 区间dp
+- [ ] 贪心算法
+- [ ] 哈希表
+- [ ] UTHash
+- [x] KMP匹配
 
 ## Web
 
-* **warp解锁GPT**
-* Nginx反向代理
-* Python升级
-* Java
-* GPT API调用
-* 动态网页(vue)
+- [x] **warp解锁GPT**
+- [x] Nginx反向代理
+- [ ] Python升级
+- [ ] Java
+- [x] GPT API调用
+- [ ] 动态网页(vue) `low priority`
 
 ## Interests
 
-* Latex
-* Python
+- [ ] Latex
+- [ ] Python
+- [ ]  lol
