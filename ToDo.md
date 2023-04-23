@@ -4,8 +4,11 @@
 >先动脑
 >把完成时间、debug时间记下来
  
->牢记 `FuckU.c` (build for 1h,debug for 7h,**not pass**)
->和`tmp.c`(build for 1.5h,debug for 7h,**not pass**)
+>把题目看清楚！
+## Monument
+>`FuckU.c` (build for 1h,debug for 7h,**not pass**)
+>`tmp.c`(build for 1.5h,debug for 7h,**not pass**)
+>`flightStimulate.c`(build for 3h,**题目看错，层序没看**)
 
 ## Coding
 
